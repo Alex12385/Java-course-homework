@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-01T17:44:58.691187400Z</date>
+  <millis>1680371098691</millis>
+  <nanos>187400</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Числовой массив отсортирован</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-01T17:48:54.877697400Z</date>
+  <millis>1680371334877</millis>
+  <nanos>697400</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Системе не удается найти указанный путь</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-01T17:49:51.250735200Z</date>
+  <millis>1680371391250</millis>
+  <nanos>735200</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Числовой массив отсортирован</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-01T17:52:48.822148800Z</date>
+  <millis>1680371568822</millis>
+  <nanos>148800</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Числовой массив отсортирован</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-02T14:27:41.158428Z</date>
+  <millis>1680445661158</millis>
+  <nanos>428000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Числовой массив отсортирован</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-02T14:28:35.160897Z</date>
+  <millis>1680445715160</millis>
+  <nanos>897000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Числовой массив отсортирован</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-02T14:29:55.385860500Z</date>
+  <millis>1680445795385</millis>
+  <nanos>860500</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Системе не удается найти указанный путь</message>
+</record>
+</log>
